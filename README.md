@@ -1,3 +1,5 @@
+[![Manual workflow](https://github.com/CultofVecna-Bot/forestbot-template/actions/workflows/manual.yml/badge.svg)](https://github.com/CultofVecna-Bot/forestbot-template/actions/workflows/manual.yml)
+
 # basic setup
 
 1. get a database, register a number and upload it
